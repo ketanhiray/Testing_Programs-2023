@@ -320,3 +320,31 @@ console.warn: LoginRecipes: "Falling back to a synchronous message for: https://
 1694086662506	Marionette	INFO	Stopped listening on port 60848
 Dynamically enable window occlusion 1
 !!! error running onStopped callback: TypeError: callback is not a function
+1703525992388	geckodriver	INFO	Listening on 127.0.0.1:57938
+1703525995472	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57939" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\khiray\\AppData\\Local\\Temp\\rust_mozprofileMGTpJx"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1703525996751	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1703525996871	Marionette	INFO	Listening on port 57955
+WebDriver BiDi listening on ws://127.0.0.1:57939
+Read port: 57955
+1703525997031	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57939/devtools/browser/c0169e0d-3546-4a9b-99bb-da75e2a099e6
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+1703526006036	Marionette	INFO	Stopped listening on port 57955
+Dynamically enable window occlusion 1
+1703592481280	geckodriver	INFO	Listening on 127.0.0.1:64300
+1703592484351	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64301" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\khiray\\AppData\\Local\\Temp\\rust_mozprofilerQlfw8"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1703592485109	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1703592485258	Marionette	INFO	Listening on port 64315
+WebDriver BiDi listening on ws://127.0.0.1:64301
+Read port: 64315
+1703592485502	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64301/devtools/browser/6d4b7729-8262-485e-9099-4c419a1e4a31
+1703592496876	Marionette	INFO	Stopped listening on port 64315
+Dynamically enable window occlusion 1
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: OperationError: Could not move temporary file(C:\Users\khiray\AppData\Local\Temp\rust_mozprofilerQlfw8\sessionCheckpoints.json.tmp) to destination(C:\Users\khiray\AppData\Local\Temp\rust_mozprofilerQlfw8\sessionCheckpoints.json)
